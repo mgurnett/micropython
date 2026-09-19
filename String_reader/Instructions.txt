@@ -1,0 +1,1 @@
+Run this on the Pico Breadboard with the LCD Screen.  Plug signal into GPIO26.  Power is 5V  And a 4.7K pull up resistor.
